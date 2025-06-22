@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SanjanaGharat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaGharat/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/SanjanaGharat/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SanjanaGharat/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SanjanaGharat/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SanjanaGharat/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
