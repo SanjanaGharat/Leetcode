@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SanjanaGharat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SanjanaGharat/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SanjanaGharat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,8 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjanaGharat/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjanaGharat/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
