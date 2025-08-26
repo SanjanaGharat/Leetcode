@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SanjanaGharat/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/SanjanaGharat/Leetcode/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SanjanaGharat/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/SanjanaGharat/Leetcode/tree/master/0443-string-compression) |
 ## Queue
 |  |
 | ------- |
