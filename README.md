@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanjanaGharat/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanjanaGharat/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1791-richest-customer-wealth](https://github.com/SanjanaGharat/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SanjanaGharat/Leetcode/tree/master/0054-spiral-matrix) |
+| [1791-richest-customer-wealth](https://github.com/SanjanaGharat/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
