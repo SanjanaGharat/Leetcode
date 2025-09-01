@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaGharat/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1791-richest-customer-wealth](https://github.com/SanjanaGharat/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanjanaGharat/Leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaGharat/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1185-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaGharat/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
