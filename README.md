@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanjanaGharat/Leetcode/tree/master/0268-missing-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SanjanaGharat/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/SanjanaGharat/Leetcode/tree/master/0443-string-compression) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SanjanaGharat/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1185-find-in-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SanjanaGharat/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
