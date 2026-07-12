@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaGharat/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1331-rank-transform-of-an-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1791-richest-customer-wealth](https://github.com/SanjanaGharat/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanjanaGharat/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaGharat/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SanjanaGharat/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanjanaGharat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SanjanaGharat/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanjanaGharat/Leetcode/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/SanjanaGharat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
