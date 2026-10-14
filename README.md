@@ -175,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SanjanaGharat/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/SanjanaGharat/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/SanjanaGharat/Leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/SanjanaGharat/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SanjanaGharat/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
