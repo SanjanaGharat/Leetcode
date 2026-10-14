@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/SanjanaGharat/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/SanjanaGharat/Leetcode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/SanjanaGharat/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/SanjanaGharat/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/SanjanaGharat/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SanjanaGharat/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/SanjanaGharat/Leetcode/tree/master/1527-patients-with-a-condition) |
