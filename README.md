@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SanjanaGharat/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/SanjanaGharat/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/SanjanaGharat/Leetcode/tree/master/0607-sales-person) |
+| [1045-customers-who-bought-all-products](https://github.com/SanjanaGharat/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/SanjanaGharat/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SanjanaGharat/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/SanjanaGharat/Leetcode/tree/master/1251-average-selling-price) |
